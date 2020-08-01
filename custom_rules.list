@@ -32,12 +32,11 @@ DOMAIN-SUFFIX,tampermonkey.net
 DOMAIN-SUFFIX,wemod.com
 DOMAIN-SUFFIX,gitlab.com
 DOMAIN-SUFFIX,internetdownloadmanager.com
-<<<<<<< HEAD
 DOMAIN-SUFFIX,openjfx.io
-=======
 DOMAIN-SUFFIX,opencode.net
 DOMAIN-SUFFIX,pling.com
->>>>>>> 4febd38583c65ef053352bbb3bedf394d04dc91c
+DOMAIN-SUFFIX,gluonhq.com
+DOMAIN-SUFFIX,apache.org
 DOMAIN,d.docs.live.net
 DOMAIN,roaming.officeapps.live.com
 
