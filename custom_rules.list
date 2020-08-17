@@ -39,6 +39,8 @@ DOMAIN-SUFFIX,gluonhq.com
 DOMAIN-SUFFIX,apache.org
 DOMAIN-SUFFIX,jquery.com
 DOMAIN-SUFFIX,planetminecraft.com
+DOMAIN-SUFFIX,eclipse.org
+DOMAIN-SUFFIX,gradle.org
 DOMAIN,d.docs.live.net
 DOMAIN,roaming.officeapps.live.com
 
